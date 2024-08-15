@@ -1,0 +1,4 @@
+alias: Test YML file
+something:
+  anotherThing:
+    - andAnotherThing
